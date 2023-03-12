@@ -1,5 +1,5 @@
 # templatesallnuclei
-
+123=---
 **I have collected all these templates from different sources.**
 
 > FEEL FREE TO ADD MORE TEMPLATES
